@@ -1,9 +1,16 @@
 import tkinter as tk
 from collections import Counter
 import re
+from tkinter import filedialog
 
 def analyze_text():
-    input_text = text_widget.get("1.0", tk.END)
+    file_path = filedialog.askopenfilename(filetypes=[("Text files", "*.txt")])
+    if not file_path:
+        return
+
+    with open(file_path, 'r') as file:
+        input_text = file.read()
+
     words = re.findall(r'\w+', input_text.lower())
     
     total_word_count = len(words)
@@ -26,12 +33,8 @@ def analyze_text():
 app = tk.Tk()
 app.title("Text Analyzer")
 
-# Create a text widget for input
-text_widget = tk.Text(app, height=10, width=40)
-text_widget.pack(pady=10)
-
-# Create a button to analyze the text
-analyze_button = tk.Button(app, text="Analyze Text", command=analyze_text)
+# Create a button to analyze text from a file
+analyze_button = tk.Button(app, text="Analyze Text from File", command=analyze_text)
 analyze_button.pack()
 
 # Create a text widget to display the analysis result
