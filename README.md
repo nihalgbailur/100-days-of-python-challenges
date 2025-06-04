@@ -6,12 +6,28 @@ Welcome to my "100 Days of Python Challenges" repository! This project is a pers
 
 The goal of this challenge is to improve my Python programming skills and explore various Python concepts through a series of small and engaging projects. Each day, I'll be working on a new Python challenge, tackling everything from basic algorithms and data structures to more complex applications.
 
-## Table of Contents
+## Challenge Progress
 
-- [Day 1](./Day1): Simple Calculator
-- [Day 2](./Day2): ...
+Below is a table showing each day's challenge along with a link to the solution folder and the completion status.
 
-Each day's challenge will be organized in a separate folder (e.g., Day 1, Day 2, ...) with a corresponding Python script, a README explaining the challenge, and any necessary resources.
+| Day | Solution Folder | Status |
+| --- | -------------- | ------ |
+| 1   | [DAY1-CALCULATOR](./NIHAL%20G%20BAILUR/DAY1-CALCULATOR) | Completed |
+| 2   | [DAY2-QuoteGenerator](./NIHAL%20G%20BAILUR/DAY2-QuoteGenerator) | Completed |
+| 3   | [DAY3-RollingDice](./NIHAL%20G%20BAILUR/DAY3-RollingDice) | Completed |
+| 4   | [DAY4-CoinFlip](./NIHAL%20G%20BAILUR/DAY4-CoinFlip) | Completed |
+| 5   | [DAY5-PasswordGenerator](./NIHAL%20G%20BAILUR/DAY5-PasswordGenerator) | Completed |
+| 6   | [DAY6_TODOLIST](./NIHAL%20G%20BAILUR/DAY6_TODOLIST) | Completed |
+| 7   | [DAY7-WordCount](./NIHAL%20G%20BAILUR/DAY7-WordCount) | Completed |
+| 8   | [DAY8-QuizGame](./NIHAL%20G%20BAILUR/DAY8-QuizGame) | Completed |
+| 9   | [DAY9-weather](./NIHAL%20G%20BAILUR/DAY9-weather) | Completed |
+| 10  | [DAY10-Note](./NIHAL%20G%20BAILUR/DAY10-Note) | Completed |
+| 11  | [DAY11-URL](./NIHAL%20G%20BAILUR/DAY11-URL) | Completed |
+| 12  | [DAY12-Currency converter](./NIHAL%20G%20BAILUR/DAY12-Currency%20converter) | Completed |
+| 13  | [DAY13-ImageViewer](./NIHAL%20G%20BAILUR/DAY13-ImageViewer) | Completed |
+| 14  | [day14-FileExplorer](./NIHAL%20G%20BAILUR/day14-FileExplorer) | Completed |
+| 15  | [DAY15-math](./NIHAL%20G%20BAILUR/DAY15-math) | Completed |
+| 16  | [DAY-16](./NIHAL%20G%20BAILUR/DAY-16) | Completed |
 
 ## How to Use This Repository
 
