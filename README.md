@@ -1,4 +1,4 @@
-# 10 Days of Python Challenges
+# 100 Days of Python Challenges
 
 Welcome to my "100 Days of Python Challenges" repository! This project is a personal coding journey where I'll be taking on a 100-day challenge of daily Python programming exercises and projects.
 
