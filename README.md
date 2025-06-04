@@ -25,3 +25,14 @@ Although this is a personal challenge repository, I'm always open to suggestions
 Let's embark on this Python journey together and become better programmers one challenge at a time!
 
 Happy coding! 🐍
+
+## Progress Tracker
+
+Use `progress_tracker.py` to record which days you've completed. Run the script with a day number to mark it as finished:
+
+```bash
+python progress_tracker.py 1
+```
+
+Running the script without arguments shows your overall progress.
+
