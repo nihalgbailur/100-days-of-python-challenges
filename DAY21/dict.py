@@ -22,7 +22,7 @@ print("is_pass" in student)  # False
 # iterate over keys
 for key in student:
     print(key, student[key])
-# iterate over items
+# iterate over items--->imp
 for key, value in student.items():
     print(key, value)
 # iterate over values
