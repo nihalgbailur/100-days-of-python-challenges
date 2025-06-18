@@ -12,6 +12,8 @@ def load_progress():
                 data = json.load(f)
                 return set(data.get('completed_days', []))
             except json.JSONDecodeError:
+                # Reset the file if it's corrupted
+                save_progress(set())
                 return set()
     return set()
 
